@@ -11,3 +11,8 @@ Las opciones que queremos ofrecer hasta ahora:
 2- Agregar bordes sinteticos a las imagenes.
 
 3- Unir varias imagenes
+
+Estas opciones son formas de trabajar con objetos o fuentes no astronomicas en las imagenes, de forma previa
+a ser utilizadas para identificacion de objetos.
+
+Notar que no trataremos aqui los problemas cosmeticos del CCD debidos a saturaciones o "bleddings" por estrellas saturadas.
