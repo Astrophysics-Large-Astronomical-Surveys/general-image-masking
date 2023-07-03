@@ -16,3 +16,6 @@ Estas opciones son formas de trabajar con objetos o fuentes no astronomicas en l
 a ser utilizadas para identificacion de objetos.
 
 Notar que no trataremos aqui los problemas cosmeticos del CCD debidos a saturaciones o "bleddings" por estrellas saturadas.
+
+Explicacion física del efecto que se produce sobre las estrellas saturadas en las imagenes:
+https://mariotonin.me/2022/07/diffraction-patterns-in-astronomical-imaging/
